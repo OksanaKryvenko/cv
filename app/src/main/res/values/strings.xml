@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CV</string>
+    <string name="welcome">Добро пожаловать в приложение, которое поможет вам составить самое лучшее и эффективное резюме всего за несколько простых шагов!</string>
+    <string name="start">Начать резюме</string>
+    <string name="first_question">Какую должность вы бы хотели получить?</string>
+    <string name="second_question">На какую зарплату вы рассчитываете?</string>
+    <string name="third_question">Как с вами можно связаться?</string>
+    <string name="fours_question">Какое у вас образование?</string>
+    <string name="fifth_question">Какой опыт работы вы имеете?</string>
+    <string name="sixth_question">Какими навыками вы обладаете?</string>
+    <string name="ok_button">OK</string>
+    <string name="first_phrase">Желаемая должность:</string>
+    <string name="second_phrase">Желаемый уровень зарплаты:</string>
+    <string name="third_phrase">Контакты:</string>
+    <string name="fourth_phrase">Образование:</string>
+    <string name="fifth_phrase">Опыт работы:</string>
+    <string name="sixth_phrase">Навыки:</string>
+    <string name="result">Ваше резюме готово!</string>
+    <string name="resume">РЕЗЮМЕ</string>
+    <string name="good_luck">Удачи в поисках работы!</string>
+    <string name="answer">Ответ...</string>
+</resources>
